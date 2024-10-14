@@ -1,0 +1,7 @@
+**5** A terminated Customer must give prompt notice of its termination to any Merchants the Customer has authorized to honor Cards and/or PTA Transactions. If any such Merchant wishes to continue to accept Cards and/or PTA Transactions, the terminated Customer must cooperate with the Corporation and other Customers in facilitating the transfer of such Merchant to another Customer.
+
+**6** If a terminated Customer does not take an action that this Rule or any other Standard or that the Corporation otherwise requires, the Corporation may take any such required action without prior notice to the terminated Customer on behalf of and at the expense of the Customer.
+
+**7** If a Principal or Association that Sponsors one or more Affiliates terminates its Participation, such Principal or Association must cause each of its Sponsored Affiliates to take the actions required of a terminated Customer under this Rule, unless and to the extent that any such Affiliate becomes an Affiliate Sponsored by a different Principal or Association within a period of time acceptable to the Corporation.
+
+**8** If an Affiliate terminates its Licenses or its Sponsorship by a Principal or Association, the Sponsoring Principal or Association must cause the Affiliate to take the actions required of a terminated Customer under this Rule. If that Affiliate fails to so comply, the Corporation may take any action that this Rule requires without notice to the Affiliate or the Sponsoring Principal or Association on behalf of and at the expense of the Sponsoring Principal or Association.

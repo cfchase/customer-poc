@@ -1,0 +1,9 @@
+**e** Any other entity or person acting to provide, directly or indirectly, service related to Activity or Digital Activity undertaken pursuant to the authority or purported authority of the terminated Customer.
+
+**2** A terminated Customer is not entitled to any refund of dues, fees, assessments, or other payments and remains liable for, and must promptly pay to the Corporation (a) any and all applicable dues, fees, assessments, or other charges as provided in the Standards and (b) all other charges, debts, liabilities, and other amounts arising or owed in connection with the Customer's Activities or Digital Activities, whether arising, due, accrued, or owing before or after termination.
+
+**3** The terminated Customer must promptly cancel all Cards then outstanding that were issued by the terminated Customer and, if the terminated Customer is a Principal or
+
+Association, by all of that Customer's Sponsored Affiliates. All Payment Applications resident on Chip Cards issued by a terminated Customer must be eradicated or disabled no more than six months after the effective date of termination. With respect to any such Card not used during the six-month period, the Issuer must block all Payment Applications the first time the Card goes online.
+
+**4** The terminated Customer must promptly cause all of its Cardholders and, if the terminated Customer is a Principal or Association, the Cardholders of its Sponsored Affiliates to be notified of the cancellation of Cards in writing. When the PTA Program includes PTA Transactions that are branded Mastercard or Maestro, the terminated PTA Customer must promptly cause all of its Account Holders and, if the terminated PTA Customer is a Principal or Association, must promptly cause the Account Holders of its Sponsored Affiliates to be notified of the termination of participation of PTA Accounts in the PTA Program in writing. Such notice must be in a form and substance satisfactory to the Corporation.

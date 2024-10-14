@@ -1,0 +1,11 @@
+**9** If an Affiliate Sponsored by a Principal or Association ceases to be so Sponsored by that Principal or Association, such Principal or Association nonetheless is obligated, pursuant to and in accordance with the Standards, to accept from other Customers (a) the records of Transactions arising from the use of Cards issued by that formerly Sponsored Affiliate and whether such Transactions arise before or after the cessation of the Sponsorship and/or (b) the records of PTA Transactions arising from the use of PTA Accounts established by that formerly Sponsored Affiliate and whether such PTA Transactions arise before or after the cessation of the Sponsorship.
+
+**10** A terminated Customer has no right to present records of Transactions or PTA Transactions effected after the date of termination to any other Customer, except as permitted by the Standards.
+
+**11** A terminated Customer continues to have the rights and obligations set forth in the Standards and Licenses with respect to its use of the Marks and conduct of Activity until such time as the Corporation determines such rights or obligations or both cease.
+
+**12** A terminated Customer has a continuing obligation to provide promptly to the Corporation, on request, Customer Reports and any other information about Activity or Digital Activity.
+
+**13** A terminated Customer must, at the option of the Corporation, immediately either destroy, or take such steps as the Corporation may require regarding, all confidential and proprietary information of the Corporation in any form previously received as a Customer.
+
+**14** The Corporation may continue the Participation and Licenses or Digital Activity Agreements or PTA Agreements, as the case may be, of a terminated Customer for purposes of the orderly winding down or transfer of the terminated Customer's business. Such continuation of Participation and Licenses or Digital Activity Agreements or PTA Agreements is subject to such terms as may be required by the Corporation.
