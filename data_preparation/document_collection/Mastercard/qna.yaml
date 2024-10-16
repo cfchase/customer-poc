@@ -2,9 +2,7 @@ version: 3
 domain: financial_services/payment_processing
 created_by: ibmdataworks
 document_outline: |
-  Information about Mastercard customer rules relating to customer elibility, anti-money laundering and sanction
-  requirements, the License, digital activity, transfer of cards, participation in competing network,
-  and customer termination.
+  Information about Mastercard ...
 seed_examples:
   - context: >
       The Corporation must receive written notice at least 30 days before the effective date of any proposed transfer or assignment of a Mastercard Portfolio.
