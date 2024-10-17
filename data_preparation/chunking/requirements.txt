@@ -1,0 +1,9 @@
+langchain-text-splitters
+datasets
+rich
+docling==1.16.1
+docling-parse==1.3.0
+click>=8.1.7,<9.0.0
+tabulate
+transformers
+ruamel.yaml
