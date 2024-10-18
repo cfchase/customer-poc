@@ -2,78 +2,46 @@ version: 3
 domain: financial_services/payment_processing
 created_by: ibmdataworks
 document_outline: |
-  Information about Mastercard ...
+  Mastercard policies for Customer participation in ATM Networks
 seed_examples:
   - context: >
-      The Corporation must receive written notice at least 30 days before the effective date of any proposed transfer or assignment of a Mastercard Portfolio.
+      If a Customer permits cardholders of an entity that is not a Customer to have access to its or its Customer's ATM Terminals, such entity has no participation rights in the Mastercard ® ATM Network, and has no right of access to the ATM Terminals of other Customers.
 
-      A Customer must promptly provide the Corporation any information requested by the Corporation relating to such an event or proposed event.
-      If such transfer or assignment will result in a change of Control of the Customer or the Customer's issuing Program, acquiring Program, or both, then Rule 1.12 shall apply.
-
-      A Principal must not withdraw a Maestro or Cirrus Portfolio from participation in the Interchange System except upon fulfillment of the following conditions:
-
-      **1** The Principal must provide the Corporation with at least six months prior written notice of its intent to withdraw a Portfolio.
-            If confidential negotiations surrounding a Portfolio sale would render six months' notice unduly disruptive, the Corporation may accept a shorter time at its discretion.
-
-      **2** The Principal must certify in writing to the Corporation that as of the date of withdrawal, no Cards will be in circulation, unless the Corporation has approved a plan for the phased withdrawal of the Portfolio.
-      Any phased withdrawal must not exceed the lesser of one full re-issuance cycle or two years.
-      Any withdrawal plan must guarantee that Cards still in circulation will continue to provide access to Accounts through the Corporation.
-
-      **3** If there is a new owner of the Portfolio, such owner must be a Customer of the Corporation.
-            Alternatively, if the new owner is not eligible to be Licensed, then it must enter into an agreement with the Corporation to be bound by all Rules applicable to the Portfolio during its withdrawal period.
-
+      If a Customer takes part in an ATM network other than the Mastercard ® ATM Network, it must do so in a manner that is consistent with all applicable provisions of the Standards. It must not, because of such participation, discriminate against the Mastercard ® ATM Network, any Customer or its Cardholders, or otherwise fail to comply with the Standards.
     questions_and_answers:
       - question: >
-          Can a Mastercard Portfolio be transferred?
+          What are the implications for a Customer who allows non-Customer cardholders access to its ATM Terminals within the Mastercard ® ATM Network?
         answer: >
-          Yes, a Mastercard Customer can be transferred or reassigned as long as written notice is provided at least 30 days prior
-          to the effective date.
-
-          The Customer must also promptly supply the Mastercard Corporation with any additional information requested
-          regarding the proposed portfolio transfer event.
+          If a Customer permits cardholders of an entity that is not a Customer to have access to its or its Customer's ATM Terminals, such entity has no participation rights in the Mastercard ® ATM Network, and has no right of access to the ATM Terminals of other Customers.
       - question: >
-          What are the conditions a Mastercard customer must fulfill to withdraw a Portfolio from the Interchange
-          System?
+          How can a Customer ensure compliance with the Standards when participating in an ATM network other than the Mastercard ® ATM Network?
         answer: >
-          A Mastercard customer must fulfill the following conditions to withdraw a Portfolio from the Interchange
-          System.
-          1. Provide at least six months prior notice that the Mastercard customer will be withdrawing a Portfolio.
-          2. Certify in writing to the Mastercard Corporation that on the date of withdrawl no Cards will be in
-          circulation unless Mastercard Corporation has approved otherwise.
-          3. Any new owner of the Portfolio must be a Mastercard Customer.
+          If a Customer takes part in an ATM network other than the Mastercard ® ATM Network, it must do so in a manner that is consistent with all applicable provisions of the Standards
       - question: >
-          After a sale of Mastercard Portfolio, what happens if the new owner is not eligible to be Licensed by
-          Mastercard?
+          In what ways might a Customer's participation in another ATM network impact its relationship with the Mastercard ® ATM Network and its other Customers?
         answer: >
-          If the new owner is not eligible to be Licensed by Mastercard, then it must enter into an agreement with the
-          Mastercard Corporation to be bound by all Rules applicable to the Portfolio during its withdrawal period.
+          The Customer's participation in another ATM network will cause a discrimination against the Mastercard ® ATM Network, any Customer or its Cardholders, or otherwise fail to comply with the Standards.
   - context: |
-      **9** If an Affiliate Sponsored by a Principal or Association ceases to be so Sponsored by that Principal or Association, such Principal or Association nonetheless is obligated, pursuant to and in accordance with the Standards, to accept from other Customers (a) the records of Transactions arising from the use of Cards issued by that formerly Sponsored Affiliate and whether such Transactions arise before or after the cessation of the Sponsorship and/or (b) the records of PTA Transactions arising from the use of PTA Accounts established by that formerly Sponsored Affiliate and whether such PTA Transactions arise before or after the cessation of the Sponsorship.
+      A Customer may take part, as either an issuer or an acquirer or both, in any ATM network in addition to the Mastercard ® ATM Network that is not a Competing ATM Network.
 
-      **10** A terminated Customer has no right to present records of Transactions or PTA Transactions effected after the date of termination to any other Customer, except as permitted by the Standards.
+      Notwithstanding the foregoing, Customers in the countries listed in Rule 1.10.3 may participate in a Competing ATM Network, but only in the manner and to the extent expressly set forth in the Standards.
 
-      **11** A terminated Customer continues to have the rights and obligations set forth in the Standards and Licenses with respect to its use of the Marks and conduct of Activity until such time as the Corporation determines such rights or obligations or both cease.
-
-      **12** A terminated Customer has a continuing obligation to provide promptly to the Corporation, on request, Customer Reports and any other information about Activity or Digital Activity.
-
-      **13** A terminated Customer must, at the option of the Corporation, immediately either destroy, or take such steps as the Corporation may require regarding, all confidential and proprietary information of the Corporation in any form previously received as a Customer.
-
-      **14** The Corporation may continue the Participation and Licenses or Digital Activity Agreements or PTA Agreements, as the case may be, of a terminated Customer for purposes of the orderly winding down or transfer of the terminated Customer's business. Such continuation of Participation and Licenses or Digital Activity Agreements or PTA Agreements is subject to such terms as may be required by the Corporation.
+      A Customer may offer its Cardholders any electronic funds transfer (EFT) services (whether provided by the Mastercard ® ATM Network or not), charge its Cardholders such fees, if any, as it chooses, arrange with any Customer or non-Customer for mutual access to ATMs by the Cardholders or cardholders of each, respectively, process and settle any ATM transactions without using the Interchange System, locate its ATMs wherever it chooses, and otherwise conduct its EFT business in the manner it chooses.
     questions_and_answers:
       - question: |
-          What kinds of reports does a terminated Master Card Customer have to send Master Card Corporation?
+          Can customer participate in any other network other than Mastercard ATM network?
         answer: |
-          Mastercard customers are obligated to sent Customer reports or any other information about Activity or Digital Activity.
+          A Customer may take part, as either an issuer or an acquirer or both, in any ATM network in addition to the Mastercard ® ATM Network that is not a Competing ATM Network.
       - question: |
-          What happens to a Mastercard customer's confidential and proprietary information after the Mastercard customer becomes a terminated Mastercard customer.
+          Can Customer offer its Cardholders any electronic funds transfer EFT services?
         answer: |
-          A terminated Mastercard Customer must, at the option of the Mastercard Corporation, immediately either destroy, or take such steps as the Mastercard Corporation may require regarding, all confidential and proprietary information of the Corporation in any form previously received as a Customer.
+          Yes, A Customer may offer its Cardholders any electronic funds transfer EFT services whether provided by the Mastercard ATM Network or not.
       - question: |
-          Can a terminated Mastercard Customer show records of Mastercard Transactions after the date of termination?
+          Is it mandatory to use Interchange System to settle any ATM transactions?
         answer: |
-          No, a terminated Mastercard Customer has no right to present records of Mastercard Transactions or PTA Transactions effected after the date of termination to any other Mastercard Customer, except as permitted by the Mastercard Standards.
+          No, The customer can process and settle any ATM transactions without using the Interchange System.
 document:
-  repo: 'https://github.com/ibmdataworks/mc-rules'
-  commit: ac9a5936211dd64acb0c11130f3f8ddb2398104a
+  repo: 'https://github.com/cfchase/customer-poc'
+  commit: 5a9505c3aa1e329d1101312e7c5e4a69833d9037
   patterns:
-    - eligibility.md
+    - data_preparation/output/Mastercard/md/*.md
